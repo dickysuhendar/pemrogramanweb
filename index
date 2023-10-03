@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gallery </title>
+</head>
+    <hr color="blue" size="4" width="50%" align="left"><font size="5" color="red">
+
+    <a href="Home.html">Home</a>  | <a href="Profil.html">Profil</a>  |<a href="Gallery .html">Gallery</a>   |<a href="Kontak.html">Kontak</a> </font>
+    
+    <hr color="blue" size="4" width="50%" align="left">
+    <body>
+    <h1>Halaman Gallery boskuh  </h1>
+    <a href="Profil.html">
+    <img src="stich.jpg" align="center" width="150" height="150">
+    </a>
+
+    <a href="stich.jpg" download="replacer" >Download Gambar cok </a><br>
+    <a href="stich.jpg">Download gambar disini </a><br>
+    <a href="buku.pdf">Download buku disini</a><br>
+    <a href="buku.pdf" download="replacer">Download buku disini</a><br>
+    
+</body>
+
+
+</html>
